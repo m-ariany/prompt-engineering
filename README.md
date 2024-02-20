@@ -6,4 +6,6 @@ Go beyond the chat box. Use API access to leverage LLMs into your own applicatio
 - Discover new ways to use LLMs, including how to build your own chatbot
 - Gain hands-on practice writing and iterating on prompts using the OpenAI API
 
-Source: https://learn.deeplearning.ai/chatgpt-prompt-eng 
+Youtube videos: https://github.com/LearnLLMs/prompt-engineering
+
+Credit goes to Andrew Ng: https://learn.deeplearning.ai/chatgpt-prompt-eng 
